@@ -1,0 +1,244 @@
+Uri: https://www.metabot.tk/
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\index.htm
+Content Type: text/html
+
+Uri: https://www.metabot.tk/index.html
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\index.html
+Content Type: text/html
+
+Uri: https://www.metabot.tk/nicepage.css
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\nicepage.css
+Content Type: text/css
+
+Uri: https://www.metabot.tk/Home.css
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\Home.css
+Content Type: text/css
+
+Uri: https://www.metabot.tk/images/favicon.png
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\images\favicon.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\css.css
+Content Type: text/css
+
+Uri: https://www.metabot.tk/Home.html
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\Home.html
+Content Type: text/html
+
+Uri: https://www.metabot.tk/Why-Boat.html
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\Why-Boat.html
+Content Type: text/html
+
+Uri: https://www.metabot.tk/Supporter.html
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\Supporter.html
+Content Type: text/html
+
+Uri: https://www.metabot.tk/Safety.html
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\Safety.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/channel/UCoIOLqlSdXjWPp3O2xXJ_nA
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\channel\UCoIOLqlSdXjWPp3O2xXJ_nA.html
+Content Type: text/html
+
+Uri: https://www.metabot.tk/Branding.html
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\Branding.html
+Content Type: text/html
+
+Uri: https://www.metabot.tk/jquery.js
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\jquery.js
+Content Type: application/javascript
+
+Uri: https://www.metabot.tk/nicepage.js
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\nicepage.js
+Content Type: application/javascript
+
+Uri: https://www.metabot.tk/images/MetaNewBannerwhite.png
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\images\MetaNewBannerwhite.png
+Content Type: image/png
+
+Uri: https://www.metabot.tk/images/newembed2.png
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\images\newembed2.png
+Content Type: image/png
+
+Uri: https://www.metabot.tk/images/newembed1.png
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\images\newembed1.png
+Content Type: image/png
+
+Uri: https://www.metabot.tk/images/newembed3.png
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\images\newembed3.png
+Content Type: image/png
+
+Uri: https://www.metabot.tk/images/stars.png
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\images\stars.png
+Content Type: image/png
+
+Uri: https://www.metabot.tk/images/twitter.png
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\images\twitter.png
+Content Type: image/png
+
+Uri: https://www.metabot.tk/images/discord.png
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\images\discord.png
+Content Type: image/png
+
+Uri: https://www.metabot.tk/images/zOC9jDj.png
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\images\zOC9jDj.png
+Content Type: image/png
+
+Uri: https://www.metabot.tk/images/BrandedColourBackground.png
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\images\BrandedColourBackground.png
+Content Type: image/png
+
+Uri: https://www.metabot.tk/images/d77cb9e0fe797196ffa11ad92c293247.png
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\images\d77cb9e0fe797196ffa11ad92c293247.png
+Content Type: image/png
+
+Uri: https://www.metabot.tk/images/4f4d473b2eba3df54ae0a6c66b24c562.png
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\images\4f4d473b2eba3df54ae0a6c66b24c562.png
+Content Type: image/png
+
+Uri: https://www.metabot.tk/images/9888405d40d64288db271bd2e97b3776.png
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\images\9888405d40d64288db271bd2e97b3776.png
+Content Type: image/png
+
+Uri: https://www.metabot.tk/images/36e61b2e19fe4e5ebc3856d83f70d8d9.png
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\images\36e61b2e19fe4e5ebc3856d83f70d8d9.png
+Content Type: image/png
+
+Uri: https://www.metabot.tk/Why-Boat.css
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\Why-Boat.css
+Content Type: text/css
+
+Uri: https://www.metabot.tk/Supporter.css
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\Supporter.css
+Content Type: text/css
+
+Uri: https://cdn.discordapp.com/attachments/791765129079160844/827796668333424640/maxresdefault.jpg
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\attachments\791765129079160844\827796668333424640\maxresdefault.jpg
+Content Type: image/jpeg
+
+Uri: https://www.metabot.tk/images/newembed4.png
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\images\newembed4.png
+Content Type: image/png
+
+Uri: https://www.metabot.tk/images/Stars2.png
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\images\Stars2.png
+Content Type: image/png
+
+Uri: https://www.metabot.tk/images/Stars1.png
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\images\Stars1.png
+Content Type: image/png
+
+Uri: https://www.metabot.tk/images/newembed6.png
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\images\newembed6.png
+Content Type: image/png
+
+Uri: https://discord.com/invite/zWv5WUe34W
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\invite\zWv5WUe34W.html
+Content Type: text/html
+
+Uri: https://www.w3schools.com/w3css/4/w3.css
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\w3css\4\w3.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Lato
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\css-1.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\ajax\libs\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\pagead\js\f.txt
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-151866676-1
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://discord.com/oauth2/authorize?client_id=819076548606558239&permissions=8&scope=bot
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\oauth2\authorize.html
+Content Type: text/html
+
+Uri: https://www.metabot.tk/Branding.css
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\Branding.css
+Content Type: text/css
+
+Uri: https://boat.statuspage.io/
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\index-1.htm
+Content Type: text/html
+
+Uri: https://medium.com/withboat
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\withboat.html
+Content Type: text/html
+
+Uri: https://www.metabot.tk/images/BoatNewBannerwhite.png
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\images\BoatNewBannerwhite.png
+Content Type: image/png
+
+Uri: https://www.metabot.tk/images/LogoMainTransparentWhite.png
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\images\LogoMainTransparentWhite.png
+Content Type: image/png
+
+Uri: https://www.metabot.tk/images/LogoMain.png
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\images\LogoMain.png
+Content Type: image/png
+
+Uri: https://www.metabot.tk/images/LogoMainTransparent.png
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\images\LogoMainTransparent.png
+Content Type: image/png
+
+Uri: https://www.metabot.tk/images/LogoMainTransparentWhite1.png
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\images\LogoMainTransparentWhite1.png
+Content Type: image/png
+
+Uri: https://www.metabot.tk/images/BoatBannedMain.png
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\images\BoatBannedMain.png
+Content Type: image/png
+
+Uri: https://www.metabot.tk/images/BoatBannerTransparent.png
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\images\BoatBannerTransparent.png
+Content Type: image/png
+
+Uri: https://www.metabot.tk/images/toprightboat.png
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\images\toprightboat.png
+Content Type: image/png
+
+Uri: https://www.metabot.tk/images/bottomleftboat.png
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\images\bottomleftboat.png
+Content Type: image/png
+
+Uri: https://www.metabot.tk/images/white.png
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\images\white.png
+Content Type: image/png
+
+Uri: https://www.metabot.tk/images/1IqveAJ.png
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\images\1IqveAJ.png
+Content Type: image/png
+
+Uri: https://discord.com/invite/tHJdSECTbD
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\invite\tHJdSECTbD.html
+Content Type: text/html
+
+Uri: https://www.metabot.tk/images/WebBackground1.png
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\images\WebBackground1.png
+Content Type: image/png
+
+Uri: https://www.metabot.tk/images/a_ef6e17b79ceea737c7ed6eb753a6b3e63.png
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\images\a_ef6e17b79ceea737c7ed6eb753a6b3e63.png
+Content Type: image/png
+
+Uri: https://www.metabot.tk/images/desert.png
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\images\desert.png
+Content Type: image/png
+
+Uri: https://discord.com/invite/69CdUcV
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\invite\69CdUcV.html
+Content Type: text/html
+
+Uri: https://discord.com/oauth2/authorize?client_id=395896950224060416&scope=bot&permissions=2146958591
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\www.metabot.tk\oauth2\authorize-1.html
+Content Type: text/html
+
