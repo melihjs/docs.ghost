@@ -1,0 +1,2 @@
+# docs.ghost
+docs.ghost
