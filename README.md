@@ -1,3 +1,3 @@
 # docs.ghost
   - docs.ghost
-  - https://discord.gg/SGdy3jtMCB
+  - https://discord.gg/ya9Gw8hBb2
